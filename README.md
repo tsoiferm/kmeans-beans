@@ -1,5 +1,7 @@
 # K-Means Clustering Algorithm on Dry Bean Dataset
 
+I applied the k-means clustering algorithm on a dataset consisting of several features of different dry bean types. I used principal component analysis to reduce the dimensionality of the dataset in order to be able to visualize the data, specifically to analyze the clusters. I determined the approprate number of clusters for this dataset using the elbow method, and to provide further confidence in the chosen number of clusters, I also calculated the silhouette score for n clusters, with n = 2,3,4,5,6,7,8,9,10,11,12,13,14,15. I created silhouette plots for n = 2,3,4,5. 
+
 ## Citations
 Dry Bean Dataset: 
 Murat KOKLU and ILKER ALI OZKAN
